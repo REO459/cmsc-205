@@ -1,0 +1,8 @@
+CHUMP:abadad cdabcdaabadacbacbabab cbad 
+FRED:acbacbacda acdaadcda cdadad 
+SCRATCHY:cbadcdabcdad cdaacdaadcbabacba ab 
+CHUMP:abadabadabcbacda abadab acba cbabababcbacbab 
+FRED:acbaab cdacdabab 
+HAIRRY:acbaacdaacba ababad cdad cdacdab 
+SLICK:cdaabcdaadcbababacbacbadcdad acbaabacda cdaabadcbabacda 
+OMEGA:ad 
